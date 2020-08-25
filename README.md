@@ -1,5 +1,5 @@
 # Starter Web Project
-Starter Wen Project.
+Starter Web project for a start.
 
 ## Introduction
 Introduction.
@@ -11,3 +11,4 @@ Purpose.
 Deployment.
 
 ## How to Contribute
+How to contribute.
