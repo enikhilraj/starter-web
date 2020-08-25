@@ -2,11 +2,12 @@
 Starter Wen Project.
 
 ## Introduction
-Introduction.f
+Introduction.
 
 ## Purpose
 Purpose.
 
 ## Deployment
+Deployment.
 
 ## How to Contribute
