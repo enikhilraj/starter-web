@@ -14,9 +14,9 @@ Purpose. 2
 Deployment.
 Deployment. 2
 
+
 ## How to Contribute
-How to contribute.
-How to contribute. 2
+Please fork this repository and then issue pull requests for review.
 
 ##Your Comments
 Comments.
