@@ -20,3 +20,6 @@ How to contribute. 2
 
 ##Your Comments
 Comments.
+
+## Copyright
+Copyright notice.
